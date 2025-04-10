@@ -1,0 +1,19 @@
+# Django and REST framework
+Django>=4.2.7
+djangorestframework>=3.14.0
+
+# SSL/TLS libraries
+pyOpenSSL>=23.2.0
+cryptography>=41.0.0
+
+# HTTP client
+requests>=2.31.0
+
+# URL parsing and validation
+urllib3>=2.1.0
+
+# Date/time handling
+python-dateutil>=2.8.2
+
+# Logging and debugging (optional but recommended)
+django-debug-toolbar>=4.2.0
